@@ -63,13 +63,11 @@ footer{
     width: 100%;
 }
 
-<<<<<<< HEAD
 fieldset{
     margin: 10px;
     padding: 10px;
     border: 1px solid #333;
     border-radius: 5px;
-=======
 form{
     display: flex;
     flex-direction: column;
@@ -101,5 +99,4 @@ form button{
     background-color: #333;
     color: #fff;
     cursor: pointer;
->>>>>>> article
 }
