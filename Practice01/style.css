@@ -68,6 +68,8 @@ fieldset{
     padding: 10px;
     border: 1px solid #333;
     border-radius: 5px;
+}
+
 form{
     display: flex;
     flex-direction: column;
@@ -99,4 +101,16 @@ form button{
     background-color: #333;
     color: #fff;
     cursor: pointer;
+}
+
+table{
+    margin: 10px;
+    padding: 10px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table th tr{
+    background-color: #333;
+    color: #fff;
 }
