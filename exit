@@ -1,0 +1,128 @@
+[33mcommit 0dadf02ea5da98eaf12707be949c9058fac12298[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mbootstap[m[33m)[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Sat Jul 12 17:41:37 2025 +0800
+
+    add new images
+
+[33mcommit bc7e33fee74eb8e0b8b21738ec3722ade7743166[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Sat Jul 12 17:31:51 2025 +0800
+
+    added BS navbar
+
+[33mcommit a69ca2e0f63566d1e7c3b711433f89c34e9d7fae[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Sat Jul 12 16:40:15 2025 +0800
+
+    add new update
+
+[33mcommit 8f613febdbff87ccd8ec7a518fc67c56d5b1986f[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Sat Jul 12 16:39:12 2025 +0800
+
+    update index and style files
+
+[33mcommit 7b5ef83ed06aef5c06efe408004dd9c5e5ca62bf[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 23:13:31 2025 +0800
+
+    clean index
+
+[33mcommit 737b0275b570063e0482f850ff5902d5e19682af[m[33m ([m[1;31morigin/table[m[33m)[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 23:09:15 2025 +0800
+
+    added table
+
+[33mcommit e8cd9c5645d502906787f73389308326d66b060a[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 22:55:27 2025 +0800
+
+    added form
+
+[33mcommit 15bf00c8a0e63c0ebd702f1b412f14d69050d7f5[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 22:55:18 2025 +0800
+
+    update form
+
+[33mcommit b65ed32491375f22f40c4ef6754a8c39682009d8[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 22:54:22 2025 +0800
+
+    merge code footer and article
+
+[33mcommit a2fe0aa4497c59a16eef3870c590b44cd07d0a4c[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 22:52:39 2025 +0800
+
+    update css
+
+[33mcommit 9cc014c04873ed9f5388c35f50bb67a2d83ab83e[m
+Merge: 3892c0b 2b9804a
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 22:50:12 2025 +0800
+
+    Merge branch 'article'
+
+[33mcommit 3892c0bd0654a57a8a9b2f766f90caf6bbd58147[m
+Merge: 3e0790b f710f10
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 22:47:06 2025 +0800
+
+    Merge branch 'Footer'
+
+[33mcommit 2b9804aea581f9231f2af0ecc882db924fc377e5[m[33m ([m[1;31morigin/article[m[33m)[m
+Merge: a85ff83 d9c1f9b
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 22:42:21 2025 +0800
+
+    Merge branch 'article' of https://github.com/nutnut03/Git-Pratical into article
+
+[33mcommit a85ff8309484d9f0cdc2fb6eb6cf6ca2d98517ea[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 22:31:30 2025 +0800
+
+    added form field
+
+[33mcommit 3e0790bed4a0a508f604895b3a6fa3e7ecfa1886[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 22:40:23 2025 +0800
+
+    added nav
+
+[33mcommit 7ca021569fabbef5bce451a5143e103183142bbe[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 22:35:36 2025 +0800
+
+    added nav
+
+[33mcommit f710f10c957b073ad48d1a7405ee41f4c8e0a45e[m[33m ([m[1;31morigin/Footer[m[33m)[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 22:33:56 2025 +0800
+
+    added fieldset
+
+[33mcommit d9c1f9be0230ff32cf7a2060cd04e3627f1ab484[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 22:31:30 2025 +0800
+
+    added form field
+
+[33mcommit eb87d6492b4d1fc7252b89fd5e4f4d6958194bc7[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 22:24:02 2025 +0800
+
+    add image slider
+
+[33mcommit c74043a1daea0b67fb0ce50498e99d41fe044fa3[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 22:18:21 2025 +0800
+
+    added footer
+
+[33mcommit 3524c7c830aff33870e98985599c159449fdf171[m
+Author: nutnut03 <carlo.meriseinc@gmail.com>
+Date:   Tue Jan 28 11:18:13 2025 +0800
+
+    first commit
